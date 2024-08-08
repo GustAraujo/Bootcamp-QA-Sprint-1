@@ -6,7 +6,8 @@ No primeiro projeto do curso realizei um teste de regressão (teste usado para v
 
 Excel: Foi nele que analisei os casos de testes e pude executá-los para definir um status apropriado para cada situação.
 
-Relatório de Bugs: Em um primeiro momento também feito no Excel, nele preenchi os campos ID, Título, Etapas, Resultadados esperados, resultados reais e prioridade, sendo que nessa última usei os valores Bloqueador, Crítico, Grande Pequeno ou Trivial para indicar, como o nome diz a prioridade de cada bug.
+Relatório de Bugs: Em um primeiro momento também feito no Excel, aqui preenchi os campos ID, Título, Etapas, Resultadados esperados, resultados reais e prioridade, sendo que nessa última usei os valores Bloqueador, Crítico, Grande Pequeno ou Trivial para indicar, como o nome diz a prioridade de cada bug.
+
 
 ### Sprint 1 - Noções Básicas de Teste
 - Introdução à análise de QA
